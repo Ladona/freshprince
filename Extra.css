@@ -1,0 +1,44 @@
+body{
+	background-color: blue;
+	text-align: center;
+}
+h1{
+	font-family: fantasy;
+	padding: 50px 0px;
+	margin: 0;
+	font-size: 70px;
+	color: red;
+	border: 1px white solid;
+}
+p{	
+	font-family: monospace;
+	padding: 1.5em 1em 1em 6em;
+	font-size: 40px;
+	width: 60%;
+	margin: 0;
+}
+div{
+	float: right;
+	width: 20%;
+	background: green;
+}
+nav{
+	border: 5px dashed aqua;
+	padding: 3em;
+}
+ul{
+	margin: 1.5em 0;
+	padding: 0;
+	list-style: none;
+}
+li{
+	font-size: 25px;
+	padding: 1em 0;
+}
+a{
+	color: limegreen;
+}
+a:hover{
+	color: yellow;
+	font: italic;
+}
